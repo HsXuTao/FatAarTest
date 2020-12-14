@@ -1,0 +1,3 @@
+include ':GDTSDK'
+include ':common'
+rootProject.name = 'FatAarTest'

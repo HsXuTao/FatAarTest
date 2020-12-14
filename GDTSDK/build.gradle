@@ -1,0 +1,2 @@
+configurations.maybeCreate("aarTestGDT")
+artifacts.add("aarTestGDT", file('GDTSDK.unionNoPlugin.4.291.1161.aar'))
